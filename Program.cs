@@ -8,12 +8,19 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+
 namespace AppWeb1
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            var config = new ConfigurationBuilder().AddEnvironmentVariables("").Build();
+            // 2nd line added
+
+            var url = config["ASPNETCORE_URLS"] ?? "http://*:8080";
+            // 3rd line added
+
             BuildWebHost(args).Run();
         }
 
