@@ -1,0 +1,10 @@
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\bin\Debug\netcoreapp2.0\AppWeb1.deps.json
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\bin\Debug\netcoreapp2.0\AppWeb1.runtimeconfig.json
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\bin\Debug\netcoreapp2.0\AppWeb1.runtimeconfig.dev.json
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\bin\Debug\netcoreapp2.0\AppWeb1.dll
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\bin\Debug\netcoreapp2.0\AppWeb1.pdb
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\obj\Debug\netcoreapp2.0\AppWeb1.csproj.CoreCompileInputs.cache
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\obj\Debug\netcoreapp2.0\AppWeb1.AssemblyInfoInputs.cache
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\obj\Debug\netcoreapp2.0\AppWeb1.AssemblyInfo.cs
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\obj\Debug\netcoreapp2.0\AppWeb1.dll
+C:\Afzal\Project\Openshift\MogoPods\App1\AppWeb1\obj\Debug\netcoreapp2.0\AppWeb1.pdb
